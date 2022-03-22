@@ -17,8 +17,8 @@ We will be evaluating our results based on Log Loss, Accuracy and Micro F1 Score
 
 <h2> 2. Deep Learning Approach </h2>
 Here, we will use CNN with Word Embedding for Text Classification as the 1st Model. <br>
-We will use CNN with Character Embedding for Text Classification as the 2nd Model. <br>
 Also, we will use pre-trained glove vectors of static length for obtaining vector representations for words. <br>
+We will use CNN with Character Embedding for Text Classification as the 2nd Model. <br>
 
 <h3> 3. Summary </h3>
 <img width="731" alt="20-Newsgroups classification summary" src="https://user-images.githubusercontent.com/102152085/159571816-a5fb60c4-c566-44c2-8800-4788d77e0464.png">
